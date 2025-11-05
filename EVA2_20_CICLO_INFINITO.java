@@ -6,7 +6,7 @@ package eva2_20_ciclo_infinito;
 
 /**
  *
- * @author Mayeli
+ * @author Azul
  */
 public class EVA2_20_CICLO_INFINITO {
 
@@ -20,3 +20,4 @@ public class EVA2_20_CICLO_INFINITO {
     }
   }   
 }
+
